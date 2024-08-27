@@ -5,6 +5,9 @@ This project was meant as practice in creating something that utilizes APIs. So 
 
 The one I created is relatively simple. It first presents the user a static image of a cave, and if they click on the cave entrance it transitions in to an image of a cat. Above the cat is some cat fact pulled from the Meowfacts API.
 
+---
+https://github.com/user-attachments/assets/47e7f8e7-f866-48f9-9c96-9a808492192a
+
 ## Acknowledgements
 - **[Meowfacts](https://rapidapi.com/wh-iterabb-it-wh-iterabb-it-default/api/meowfacts)**: Provided the facts for the project.
 - **[Cat by Freepik](https://www.freepik.com/free-psd/beautiful-cat-portrait-isolated_38310639.htm#query=cat%20transparent%20background&position=46&from_view=keyword&track=ais_hybrid&uuid=b7d22bd4-c6c6-4fb0-8800-9587b537dc7c)**: Wise cat image
